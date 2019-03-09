@@ -1,4 +1,4 @@
-package com.example.reda;
+package com.example.reda2;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.reda", appContext.getPackageName());
+        assertEquals("com.example.reda2", appContext.getPackageName());
     }
 }
