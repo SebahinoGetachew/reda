@@ -3,7 +3,6 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:background="@android:color/background_dark"
     android:layout_height="match_parent"
     tools:context=".signup">
 
@@ -213,11 +212,9 @@
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="169dp"
-        android:layout_marginBottom="670dp"
         android:text="Camera"
-        tools:layout_editor_absoluteX="171dp"
-        tools:layout_editor_absoluteY="16dp" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/registrationcamera"
+        tools:layout_editor_absoluteX="171dp" />
 
     <Button
         android:id="@+id/registrationcamera"
