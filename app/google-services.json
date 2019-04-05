@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "487649003286",
+    "firebase_url": "https://reda-69588.firebaseio.com",
+    "project_id": "reda-69588",
+    "storage_bucket": "reda-69588.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487649003286:android:aca1eb722c687e2c",
+        "android_client_info": {
+          "package_name": "com.example.reda3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487649003286-nj3declg4plbfoi30bhssq5omehttloq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkGyrjJ5v-IeUbJdbnunQYSUvJeFSSQNU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
